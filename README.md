@@ -1,2 +1,3 @@
-# oede-portal
-Open Educational Design Ecosystem (OEDE) Global Research Portal
+# OEDE Portal
+
+GitHub Pages site for Open Educational Design Ecosystem.
